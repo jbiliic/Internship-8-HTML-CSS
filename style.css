@@ -1,0 +1,31 @@
+header , footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+div {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    background-color: #faebd7;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+header a, footer a {
+    color: purple;
+    text-decoration: none;
+    font-size: 20px;
+}
+
