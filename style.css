@@ -77,8 +77,15 @@ header ul {
     margin: 0; 
     text-align: left; 
     display: inline-block; 
+    width: 180px;
+    font-size: 15px;
 }
 footer p {
     margin: 2px 0; 
     font-size: 14px;  
+}
+header p {
+    margin: 2px 0; 
+    font-size: 18px;  
+    text-align: center;
 }
